@@ -1,7 +1,7 @@
 title: Foam Jekyll Template
 theme: jekyll-theme-primer
 
-baseurl: /foam-jekyll-template
+baseurl: /ctfs
 
 highlighter: rouge
 gist:
@@ -11,7 +11,7 @@ kramdown:
   syntax_highlighter: rouge
 
 readme_index:
-  enabled:          true
+  enabled: true
 
 plugins:
 - jekyll-optional-front-matter
