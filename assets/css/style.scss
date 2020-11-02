@@ -67,6 +67,13 @@ code {
   font-family: 'JetBrains Mono';
 }
 
+* {
+  font-feature-settings: "liga" on, "calt" on;
+  -webkit-font-feature-settings: "liga" on, "calt" on;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
 .wikilink:before {
   content: "[[";
   opacity: 0.5;
