@@ -6,7 +6,7 @@ tags:
   - xxs
 ---
 
-# UTCTF 2020
+# UTCTF
 
 ## Web
 

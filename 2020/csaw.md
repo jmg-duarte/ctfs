@@ -6,7 +6,7 @@ tags:
   - ace
 ---
 
-# CSAW Qualifiers 2020
+# CSAW Qualifiers
 
 ## Web
 

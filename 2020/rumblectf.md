@@ -6,7 +6,7 @@ tags:
   - ace
 ---
 
-# CyberSecurity Rumble CTF
+# CyberSecurityRumble CTF
 
 ## Web
 
