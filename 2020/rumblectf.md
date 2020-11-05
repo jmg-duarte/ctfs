@@ -6,7 +6,11 @@ tags:
   - ace
 ---
 
-# Wheels and Whales
+# CyberSecurity Rumble CTF
+
+## Web
+
+### Wheels and Whales
 
 The goal is this challenge is to run the function `flag.get_flag()`.
 The code of the server is provided below, even though most is fluff.

@@ -6,10 +6,14 @@ tags:
   - ace
 ---
 
-# CSAW Qualifiers 2020 - flask_caching
+# CSAW Qualifiers 2020
+
+## Web
+
+### flask_caching
 
 We were presented with a simple Flask server,
-we can see the code bellow (see the [full code](app.py)).
+we can see the code bellow (see the [full code](../assets/code/csaw/app.py)).
 
 ```python
 #!/usr/bin/env python3
@@ -156,7 +160,7 @@ hence we return a tuple of a `callable` and its arguments.
 Using `os.system` we can launch an arbitrary process,
 I used `curl` to send a request to `webhook.site` with the flag as a query parameter.
 
-Now we just [automate](exploit.py) the whole process,
+Now we just [automate](../assets/code/csaw/exploit.py) the whole process,
 serializing the Exploit object to bytes,
 send the bytes as a file and request the test endpoint.
 

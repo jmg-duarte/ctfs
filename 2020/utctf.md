@@ -6,7 +6,11 @@ tags:
   - xxs
 ---
 
-# UTCTF 2020 - Chatt with Bratt
+# UTCTF 2020
+
+## Web
+
+### Chatt with Bratt
 
 For this challenge we were faced with a chat room with Brad Pid himself!
 There was a warning though, we could not be rude to Brad because we admins would check the chats.

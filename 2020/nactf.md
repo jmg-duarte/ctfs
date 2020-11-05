@@ -171,16 +171,16 @@ nactf{1nspect1ng_sp13s_4_lyf3}
 
 Here the site is trying to query `http://challenges.nactf.com/flag.png`, however the correct address is `http://hidden.challenges.nactf.com/flag.png`.
 
-![Missing Image Request](missing_image_request.png)
+![Missing Image Request](../assets/images/nactf/missing_image_request.png)
 
-![Missing Image Flag](missing_image_flag.png)
+![Missing Image Flag](../assets/images/nactf/missing_image_flag.png)
 
 ### Forms
 
 Using the following script I found that there is a button that is not like the others.
 
 ```python
-#!/usr/bin/env python3
+#!/usr/bin/env python3missing_image_flag.png
 import requests
 import bs4
 from pprint import pprint
