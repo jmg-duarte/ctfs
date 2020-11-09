@@ -375,7 +375,7 @@ Searching through the dump we find the flag:
 
 ---
 
-Files for these challenges can be found in [here](../assets/challenges/2020/csaw-final/)
+Files for these challenges can be found in [here](https://github.com/jmg-duarte/ctfs/tree/master/assets/challenges/2020/csaw-final)
 
 <script>
   MathJax = {
