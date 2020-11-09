@@ -373,6 +373,10 @@ Searching through the dump we find the flag:
 77|iS thIs ThE flAg??|b'flag{th4t_w4s_s0m3_sp00ky_scr1pt1ng}\n'
 ```
 
+---
+
+Files for these challenges can be found in [here](../assets/challenges/2020/csaw-final/)
+
 <script>
   MathJax = {
     loader: { load: ["[tex]/ams"] },
