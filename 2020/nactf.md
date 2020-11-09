@@ -121,7 +121,7 @@ with open("enc.txt") as f:
         resp = requests.get(f"https://api.opencagedata.com/geocode/v1/json?q={lat}+{lon}&key=641c51bed8ab490184632ad8526e29ad&no_annotations=1&language=en", headers=header)
         country = resp.json()["results"][0]['components']['country']
         flag += country[0]
-print(f"nactf{{{flag}}}")
+print(flag)
 ```
 
 ```
