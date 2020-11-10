@@ -45,7 +45,7 @@ e_3 \\
 \end{bmatrix}
 $$
 
-If we find $M^T$ we could reverse the encryption,
+If we find $M^{-1}$ we could reverse the encryption,
 or let Z3 do the hard work for us.
 
 We know that $x$ and $y$ are fixed for every message,
@@ -372,6 +372,10 @@ Searching through the dump we find the flag:
 ```
 77|iS thIs ThE flAg??|b'flag{th4t_w4s_s0m3_sp00ky_scr1pt1ng}\n'
 ```
+
+### Shark Facts
+
+The challenge would create a repository
 
 ---
 

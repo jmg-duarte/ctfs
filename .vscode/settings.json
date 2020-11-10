@@ -9,5 +9,12 @@
   },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
-  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "foam.files.ignore": [
+    ".vscode/*",
+    "_layouts/*",
+    "assets/*",
+    "_site/*",
+    "_sass-cache/*"
+  ]
 }
