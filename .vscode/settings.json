@@ -3,7 +3,7 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 20,
-  "workbench.colorTheme": "Gray Matter Dark",
+  "workbench.colorTheme": "GitHub Light",
   "[markdown]": {
     "editor.quickSuggestions": true
   },
